@@ -17,4 +17,4 @@ echo "[*] Created by RIP-Network      Version 1.0"
 echo
 echo "[*] Default port : 8080"
 echo
-php -S 0.0.0.0:80
+php -S 0.0.0.0:8080
