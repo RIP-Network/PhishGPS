@@ -1,8 +1,8 @@
 #!bin/bash
 
-sudo apt update
-sudo apt upgrade -y
-sudo apt install -y php 
+apt update
+apt upgrade -y
+apt install -y php 
 chmod +x * data.html
 clear
 
