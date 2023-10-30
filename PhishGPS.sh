@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 apt update
 apt upgrade -y
